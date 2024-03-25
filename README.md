@@ -52,12 +52,12 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
 
 ## Certificates
 
-- [•Google Ads Search Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf)
-- [•Google Analytics Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
-- [•Google Ads Video Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
-- [•Fundamentals of Digital Marketing– Google](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
-- [•Inbound Marketing Certified- Hubspot](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
+- [Google Ads Search Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf)
+- [Google Analytics Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
+- [Google Ads Video Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
+- [Fundamentals of Digital Marketing– Google](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
+- [Inbound Marketing Certified- Hubspot](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
 
 ## EDUCATION
-**BACHELOR OF ARTS** 									              JUNE 2024
-**Babasaheb Bhimrao Ambedkar Bihar University**			65%
+**BACHELOR OF ARTS** 									      JUNE 2024  <br/>
+**Babasaheb Bhimrao Ambedkar Bihar University**			65%  
