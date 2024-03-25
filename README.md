@@ -14,6 +14,7 @@ SEO/SEM | Social Media Marketing |Content Marketing | Email Marketing | Project 
 Digital Marketing Strategy | Team Management | Decision Making | Problem Solving | Strategic Thinking | Empathy | Conflicts Resolution | Delegation | Adaptability | Visionary Leadership | Ethical Leadership 
 
 ## PROFESSIONAL EXPERIENCE
+
 **MARKETING INTERN | FUZEMEE, INDIA** <br/>
 **AUG 2023 – OCT 2023** <br/>
 •	Assist in developing and implementing marketing strategies
@@ -58,6 +59,8 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
 - [Fundamentals of Digital Marketing– Google](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
 - [Inbound Marketing Certified- Hubspot](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
 
+
 ## EDUCATION
+
 **BACHELOR OF ARTS** 									      JUNE 2024  <br/>
 **Babasaheb Bhimrao Ambedkar Bihar University**			65%  
