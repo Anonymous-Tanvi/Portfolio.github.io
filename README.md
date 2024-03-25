@@ -29,11 +29,11 @@ Digital Marketing Strategy | Team Management | Decision Making | Problem Solving
 
 ## Certificates
 
-- [Google Ads Search Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf)
-- [Google Analytics Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
-- [Google Ads Video Certifications](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
-- [Fundamentals of Digital Marketing– Google](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
-- [Inbound Marketing Certified- Hubspot](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
+- [Google Ads Search Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20Ads%20Search%20Certification%20Tanvi%20Singh%20Skillshop.png)
+- [Google Analytics Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20analytics%20certification.png)
+- [Google Ads Video Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20ads%20video%20certification.png)
+- [Fundamentals of Digital Marketing– Google](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Fundamentals%20of%20digital%20marketing.png)
+- [Inbound Marketing Certified- Hubspot](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Inbound%20marketing%20certified.png)
 
 
 ## EDUCATION
