@@ -33,11 +33,11 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 
 **MARKETING INTERN | FUZEMEE, INDIA** <br/>
 **AUG 2023 – OCT 2023** <br/>
-•	Assist in developing and implementing marketing strategies
-•	Conduct market research and analysis
-•	Support planning and execution of events and promotion
-•	Monitor and analyze campaign performance
-•	Manage social media accounts
+•	Assist in developing and implementing marketing strategies <br/>
+•	Conduct market research and analysis <br/>
+•	Support planning and execution of events and promotion <br/>
+•	Monitor and analyze campaign performance <br/>
+•	Manage social media accounts <br/>
 
 
 ## Certificates
