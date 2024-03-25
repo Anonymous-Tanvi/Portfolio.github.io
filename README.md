@@ -18,16 +18,16 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 • Collaboration  <br/>
 
 **MANAGEMENT AND LEADERSHIP:**  <br/>
-• Digital Marketing Strategy - [Digital Marketing Strategy]
-• Team Management
-• Decision Making 
-• Problem Solving 
-• Strategic Thinking 
-• Conflicts Resolution 
-• Delegation 
-• Adaptability 
-• Visionary Leadership 
-• Ethical Leadership 
+• Digital Marketing Strategy <br/>
+• Team Management <br/>
+• Decision Making <br/>
+• Problem Solving <br/>
+• Strategic Thinking <br/>
+• Conflicts Resolution <br/>
+• Delegation <br/>
+• Adaptability <br/>
+• Visionary Leadership <br/>
+• Ethical Leadership <br/>
 
 ## PROFESSIONAL EXPERIENCE
 
