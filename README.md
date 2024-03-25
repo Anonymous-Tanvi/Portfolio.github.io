@@ -1,6 +1,6 @@
 # Digital Marketing Portfolio - Tanvi Singh
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Innovative digital marketing professional skilled in leveraging emerging trends and technologies to drive business impact. Excited to bring my expertise in social media management, content creation, and performance tracking to a team dedicated to pushing the boundaries of digital excellence., self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 **Email**: [tanvisingh.0920@gmail.com](tanvisingh.0920@gmail.com)
 <br/>
