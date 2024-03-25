@@ -18,7 +18,7 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 • Collaboration  <br/>
 
 **MANAGEMENT AND LEADERSHIP:**  <br/>
-• Digital Marketing Strategy
+• Digital Marketing Strategy - [Digital Marketing Strategy]
 • Team Management
 • Decision Making 
 • Problem Solving 
