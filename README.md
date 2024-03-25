@@ -23,9 +23,6 @@ Digital Marketing Strategy | Team Management | Decision Making | Problem Solving
 •	Monitor and analyze campaign performance
 •	Manage social media accounts
 
-## Projects
-
-
 
 ## Certificates
 
