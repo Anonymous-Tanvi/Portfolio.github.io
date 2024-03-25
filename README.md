@@ -7,10 +7,11 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 **LinkedIn**: [Tanvi Singh](https://www.linkedin.com/in/tanvisingh0901/)
 
 ## SKILLS
-**EXPERTIZE AND COMMUNICATION**  <br/>
-•	SEO/SEM | Social Media Marketing |Content Marketing | Email Marketing | Project Management | Analytics and Data Interpretation | Communication | Collaboration  <br/>
-**MANAGEMENT AND LEADERSHIP**  <br/>
-•	Digital Marketing Strategy | Team Management | Decision Making | Problem Solving | Strategic Thinking | Empathy | Conflicts Resolution | Delegation | Adaptability | Visionary Leadership | Ethical Leadership 
+**EXPERTIZE AND COMMUNICATION:**  <br/>
+SEO/SEM | Social Media Marketing |Content Marketing | Email Marketing | Project Management | Analytics and Data Interpretation | Communication | Collaboration  <br/>
+
+**MANAGEMENT AND LEADERSHIP:**  <br/>
+Digital Marketing Strategy | Team Management | Decision Making | Problem Solving | Strategic Thinking | Empathy | Conflicts Resolution | Delegation | Adaptability | Visionary Leadership | Ethical Leadership 
 
 ## PROFESSIONAL EXPERIENCE
 **MARKETING INTERN | FUZEMEE, INDIA** <br/>
