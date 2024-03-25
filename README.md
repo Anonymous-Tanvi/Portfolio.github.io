@@ -8,13 +8,13 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 
 ## SKILLS
 **EXPERTIZE AND COMMUNICATION:**  <br/>
-• SEO/SEM 
-• Social Media Marketing 
-• Content Marketing 
-• Email Marketing 
-• Project Management 
-• Analytics and Data Interpretation 
-• Communication 
+• SEO/SEM <br/>
+• Social Media Marketing <br/>
+• Content Marketing <br/>
+• Email Marketing <br/>
+• Project Management <br/>
+• Analytics and Data Interpretation <br/>
+• Communication <br/>
 • Collaboration  <br/>
 
 **MANAGEMENT AND LEADERSHIP:**  <br/>
