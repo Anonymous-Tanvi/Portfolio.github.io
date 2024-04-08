@@ -43,12 +43,12 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 
 <img align="left" width="250" height="300" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[Customer Segmentation Analysis:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
 
-Objective: Identify distinct customer segments based on behavior, demographics, and interactions with your digital platforms to personalize marketing strategies.
-Data Sources: Customer database, website analytics, CRM data, email marketing platform.
-Project Components:
-     1. Segment customers based on factors such as purchase history, engagement level, demographics, etc.
-     2. Analyze the characteristics and preferences of each segment.
-     3. Create personalized marketing recommendations and campaigns tailored to each segment.
+Objective: Identify distinct customer segments based on behavior, demographics, and interactions with your digital platforms to personalize marketing strategies. <br />
+Data Sources: Customer database, website analytics, CRM data, email marketing platform.<br />
+Project Components:<br />
+     1. Segment customers based on factors such as purchase history, engagement level, demographics, etc.<br />
+     2. Analyze the characteristics and preferences of each segment.<br />
+     3. Create personalized marketing recommendations and campaigns tailored to each segment.<br />
      4. Track the effectiveness of personalized campaigns and measure ROI.
      
    #  <br />
