@@ -51,7 +51,6 @@ Project Components:<br />
      3. Create personalized marketing recommendations and campaigns tailored to each segment.<br />
      4. Track the effectiveness of personalized campaigns and measure ROI.
    #  <br />
-<br />
 
 ## Certificates
 
