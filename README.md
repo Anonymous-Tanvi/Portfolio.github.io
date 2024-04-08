@@ -41,7 +41,7 @@ This Portfolio is a compilation of all the Innovative digital marketing professi
 
 ## Projects
 
-<img align="left" width="250" height="275" src="https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis/blob/08049bb16e1dbfbe4fbb1b900015bdf13c1fa7c6/Customer%20Segmentation%20Analysis.png"> **[Customer Segmentation Analysis:](https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis.git)**
+<img align="left" width="225" height="250" src="https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis/blob/08049bb16e1dbfbe4fbb1b900015bdf13c1fa7c6/Customer%20Segmentation%20Analysis.png"> **[Customer Segmentation Analysis:](https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis.git)**
 
 **Objective**: Identify distinct customer segments based on behavior, demographics, and interactions with your digital platforms to personalize marketing strategies. <br />
 **Data Sources**: Customer database, website analytics, CRM data, email marketing platform.<br />
