@@ -52,8 +52,8 @@ Project Components:
      4. Track the effectiveness of personalized campaigns and measure ROI.
      
    #  <br />
-
 <br />
+
 ## Certificates
 
 - [Google Ads Search Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20Ads%20Search%20Certification%20Tanvi%20Singh%20Skillshop.png)
